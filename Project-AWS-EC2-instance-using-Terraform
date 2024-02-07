@@ -5,7 +5,7 @@ To automate provisioning of an AWS EC2 instance using Terraform.
 You are a DevOps Engineer in an IT company. Your company wants you to automate an infrastructure to manage all the running services from one place and provide an access model control based upon the organisation, teams, and users.This should also help the team in better collaboration and a centralised documentation.
  
 # Tools required: 
-Terraform, AWS CLI.
+Terraform, AWS Account with security credentials.
 
 # Expected Deliverables:
 1. Launch an EC2 instance using Terraform
